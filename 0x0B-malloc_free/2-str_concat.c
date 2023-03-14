@@ -42,3 +42,4 @@ result[i] = s2[j];
 result[len] = '\0';
 return (result);
 }
+}		
